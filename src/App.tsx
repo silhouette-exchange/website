@@ -6,7 +6,6 @@ import './App.css'
 
 function App() {
     const [count, setCount] = useState(0)
-    console.log("HELLO", silhouetteLogo)
 
     const divStyle = {
         backgroundImage: `url(${silhouetteLogo})`,
