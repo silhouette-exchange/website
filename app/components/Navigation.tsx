@@ -14,7 +14,7 @@ export default function Navigation() {
                 <Link href="https://t.me/silhouette_exchange" target="_blank" rel="noopener noreferrer">
                     <Image src="/telegram-icon.svg" alt="Telegram" width={32} height={32} />
                 </Link>
-                <Link href="https://twitter.com/silhouette_ex" target="_blank" rel="noopener noreferrer">
+                <Link href="https://x.com/silhouette_ex" target="_blank" rel="noopener noreferrer">
                     <Image src="/x-icon.svg" alt="X (Twitter)" width={32} height={32} />
                 </Link>
             </div>
