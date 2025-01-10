@@ -1,5 +1,7 @@
 # Silhouette website
 
+https://silhouette.exchange/
+
 Currently is just a rush-job to get something out there. The site is a simple static site hosted by GH pages.
 
 Plan:
